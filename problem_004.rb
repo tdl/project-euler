@@ -9,3 +9,5 @@ def p4
   end
   max 
 end
+
+puts p4
